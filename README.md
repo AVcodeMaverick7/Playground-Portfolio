@@ -1,2 +1,2 @@
 # Playground-Portfolio
- This repo is meant for try, test and upskill with different technologies 
+ This repo is playground to try, test and upskill with different technologies, exploration and implementation of new ideas. 
